@@ -24,7 +24,7 @@ Database Creating:
 
 To Run Server:
 
-`go run main.go`
+`node server.js`
 
 To Visit App:
 
